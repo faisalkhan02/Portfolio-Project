@@ -1,4 +1,4 @@
-# # Data Analyst Portfolio Projects
+## Data Analyst Portfolio Projects
 Welcome to my Data Analyst Portfolio Projects repository! This repository contains a collection of data analysis projects showcasing my skills and expertise as a data analyst.
 
 # Table of Contents
