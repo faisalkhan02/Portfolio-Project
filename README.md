@@ -20,9 +20,12 @@ In this repository, you'll find a variety of data analysis projects covering dif
 ## Project List
 Here's a list of projects included in this repository:
 
-Project 1: Project Title
-Project 2: Project Title
-...
+Project 1: Covid 19 in India Data Analysis Project (Python)
+
+Project 2: EDA of World Population (Python)
+
+Project 3: Restaurant Order Analysis (MySQL)
+
 ## Project Details
 For detailed information about each project, including datasets used, analysis techniques employed, and key findings, please refer to the individual project folders.
 
