@@ -2,17 +2,17 @@
 Welcome to my Data Analyst Portfolio Projects repository! This repository contains a collection of data analysis projects showcasing my skills and expertise as a data analyst.
 
 ## Table of Contents
-1.Introduction
+Introduction
 
-2.Project List
+Project List
 
-3.Project Details
+Project Details
 
-4.Getting Started
+Getting Started
 
-5.Contributing
+Contributing
 
-6.License
+License
 
 ## Introduction
 In this repository, you'll find a variety of data analysis projects covering different domains and techniques. Each project demonstrates my proficiency in data cleaning, exploration, visualization, and interpretation. These projects aim to showcase my ability to derive meaningful insights from data and communicate findings effectively.
