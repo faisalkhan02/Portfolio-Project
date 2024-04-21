@@ -1,7 +1,7 @@
 USE restaurant_db;
 
 
--- 1. View the menu_items table:
+-- Q1. View the menu_items table:
 SELECT * FROM menu_items;
 
 
@@ -137,4 +137,4 @@ select order_id, category, count(item_id) as num_items
  from order_details od left join menu_items mi
 on od.item_id = mi.menu_item_id
 where order_id in (440, 2075, 1957, 330,2675)
-group by category,order_id
+group by category,order_id;
